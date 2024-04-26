@@ -1,4 +1,4 @@
-### Welcome to my github 🔭
+### Welcome to my Github 🔭
 
 <!--
 **Fracktom/Fracktom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
