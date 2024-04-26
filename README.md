@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, i am luis aka fracktom
+
 👀 I’m interested in technology and machines
+
 🌱 I’m currently learning how to code with differente lenguajes
+
 💞️ I’m looking to collaborate on IT industry
+
 📫
