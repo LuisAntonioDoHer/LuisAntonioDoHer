@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, i am luis aka fracktom
+👋 Hi, i am luis 
 
 👀 I’m interested in technology and machines
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 💞️ I’m looking to collaborate on IT industry
 
-📫
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
