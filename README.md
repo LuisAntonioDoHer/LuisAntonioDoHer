@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 👋 Hi, i am luis 
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning how to code with differente lenguajes
 
-💞️ I’m looking to collaborate on IT industry
+⚡ I’m looking to collaborate on IT industry
 
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
